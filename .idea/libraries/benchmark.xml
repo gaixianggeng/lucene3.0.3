@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="benchmark">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/contrib/benchmark/lucene-benchmark-3.0.3-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/benchmark/lucene-benchmark-3.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

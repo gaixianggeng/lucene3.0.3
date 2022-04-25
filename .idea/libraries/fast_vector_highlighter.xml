@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="fast-vector-highlighter">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/contrib/fast-vector-highlighter/lucene-fast-vector-highlighter-3.0.3-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/fast-vector-highlighter/lucene-fast-vector-highlighter-3.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

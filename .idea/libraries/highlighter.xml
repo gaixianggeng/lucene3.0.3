@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="highlighter">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/contrib/highlighter/lucene-highlighter-3.0.3-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/highlighter/lucene-highlighter-3.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

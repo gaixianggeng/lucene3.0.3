@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="common">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/contrib/analyzers/common/lucene-analyzers-3.0.3-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/analyzers/common/lucene-analyzers-3.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

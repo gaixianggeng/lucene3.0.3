@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="memory">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/contrib/memory/lucene-memory-3.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/memory/lucene-memory-3.0.3-javadoc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

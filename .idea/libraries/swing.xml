@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="swing">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/contrib/swing/lucene-swing-3.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/swing/lucene-swing-3.0.3-javadoc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

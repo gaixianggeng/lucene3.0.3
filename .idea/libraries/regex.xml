@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="regex">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/contrib/regex/lucene-regex-3.0.3-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/regex/lucene-regex-3.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

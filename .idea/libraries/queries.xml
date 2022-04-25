@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="queries">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/contrib/queries/lucene-queries-3.0.3-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/queries/lucene-queries-3.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

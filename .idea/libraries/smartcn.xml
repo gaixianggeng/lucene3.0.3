@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="smartcn">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/contrib/analyzers/smartcn/lucene-smartcn-3.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/analyzers/smartcn/lucene-smartcn-3.0.3-javadoc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

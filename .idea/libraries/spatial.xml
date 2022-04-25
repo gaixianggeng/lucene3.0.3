@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="spatial">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/contrib/spatial/lucene-spatial-3.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/spatial/lucene-spatial-3.0.3-javadoc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
